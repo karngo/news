@@ -1,4 +1,4 @@
-package com.example.news
+package com.example.news.data
 
 data class NewsResponse(
     val articles: List<Article>? = null,
